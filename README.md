@@ -1,11 +1,11 @@
 # Shubham-s-Profile
-<h1 align="center">Hi 👋, I'm Shivaji Das And Here What I'm Lokking For :</h1>
+<h1 align="center">Hi 👋, I'm Shubham Lodha And Here What I'm Lokking For :</h1>
 
 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivaji50&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamlodha21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -15,15 +15,15 @@
 
  <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
 
-- 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
+- 📄 **Institute / University : Im A Student Of BBA(CA) In BMCC, Savitribai Phule University Pune.**
 
-- 📫 **How To Reach Me : Mail Id : shivajidassdsd@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shivaji-das-7a66b9202/)**
+- 📫 **How To Reach Me : Mail Id : shubhamlodha2111@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shubham-lodha-b2389319b/)**
 
 - ⚡ **Fun Fact : Interested In Learning New Things, Reading Books, Playing Outdoor games.**
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivaji-das-7a66b9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-das-7a66b9202" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shubham-lodha-b2389319b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-das-7a66b9202" height="30" width="30" /></a>
 
 </p>
 
