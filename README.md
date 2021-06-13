@@ -35,11 +35,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaji50&show_icons=true&locale=en&layout=compact" alt="shivaji50" /></p><br>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamlodha21&show_icons=true&locale=en&layout=compact" alt="shubhamlodha21" /></p><br>
 
 
-<br><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivaji50&show_icons=true&locale=en" alt="shivaji50" /></p><br>
+<br><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubhamlodha21&show_icons=true&locale=en" alt="shubhamlodha21" /></p><br>
 
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaji50&" alt="shivaji50" /></p><br>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamlodha21&" alt="shubhamlodha21" /></p><br>
 
