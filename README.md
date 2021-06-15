@@ -15,11 +15,11 @@
 
  <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
 
-- 📄 **Institute / University : Im A Student Of BBA(CA) In BMCC, Savitribai Phule University Pune.**
+- 📄 **Institute / University : Im A Student Of BBA(CA) In BMCC (Autonomus)**
 
 - 📫 **How To Reach Me : Mail Id : shubhamlodha2111@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shubham-lodha-b2389319b/)**
 
-- ⚡ **Fun Fact : Interested In Learning New Things, Reading Books, Playing Outdoor games.**
+- ⚡ **Fun Fact : Interested In Learning New Things,  Playing Outdoor games.**
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
