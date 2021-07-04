@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-lodha-b2389319b/)
 
 
-<img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/commit/00a39f814854ee31669ea1d47af761d392c41786" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
