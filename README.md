@@ -1,6 +1,6 @@
 ### Hi there, I'm <a> Shubham Lodha </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)
 
 <img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/blob/main/coding.gif?raw=true" width="408" height="318" />
   
