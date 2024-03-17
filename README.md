@@ -1,7 +1,7 @@
 ### Hi there, I'm <a> Shubham Lodha </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-lodha-b2389319b/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-lodha-b2389319b&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-lodha-b2389319b" /> </p>
+?<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-lodha-b2389319b&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-lodha-b2389319b" /> </p>
 
 <img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/blob/main/coding.gif?raw=true" width="408" height="318" />
   
