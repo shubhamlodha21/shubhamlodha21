@@ -6,7 +6,7 @@
   
 
 **Talking about Personal Stuffs:**
-- 📄 **Institute / University : Im A Student Of MCA In DR DY PATIL SCHOOL OF MCA, PUNE**
+- 📄 **Tech || Trade || Travel**
 
 - 📫 **How To Reach Me : Mail Id : shubhamlodha2111@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shubham-lodha-b2389319b/)**
 
