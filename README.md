@@ -1,7 +1,7 @@
 ### Hi there, I'm <a> Shubham Lodha </a>
                   
 <img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/blob/main/coding.gif?raw=true" width="408" height="318"/>
-   
+     
 
 **Talking about Personal Stuffs:**
 - 📄 **Tech || Trade || Travel**
